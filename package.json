@@ -1,0 +1,14 @@
+{
+  "name": "Liquidity-bot",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-xray-sdk": "^3.3.4",
+    "caver-js": "^1.6.7",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node --experimental-json-modules index.js"
+  },
+  "type": "module"
+}
